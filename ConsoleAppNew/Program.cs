@@ -19,6 +19,9 @@ namespace ConsoleAppNew
                 Console.WriteLine("Hello");
             }
             Console.WriteLine("Hello");
+            
+            
+            Console.WriteLine("Changes in git");
             Console.WriteLine("Changes in VS");
         }
     }
