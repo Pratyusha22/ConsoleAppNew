@@ -14,6 +14,10 @@ namespace ConsoleAppNew
                 Console.WriteLine(i);
             }
             Console.Read();
+            for(int j=0;j<10;j++)
+            {
+                Console.WriteLine("Hello");
+            }
         }
     }
 }
